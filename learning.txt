@@ -1,0 +1,2 @@
+Use searchable names
+- single-letter names can only be used as local variables inside short methods. The length of a name should correspond to the size of its cope
