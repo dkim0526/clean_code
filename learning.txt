@@ -1,2 +1,9 @@
 Use searchable names
 - single-letter names can only be used as local variables inside short methods. The length of a name should correspond to the size of its cope
+
+Use solution domain names
+- use computer science(CS) terms, algorithm names, pattern names, math terms, and so forth. It is not wise to draw every name from the problem domain because we don't want our cowerkers to have to run back and forth to the cutomer asking what every name means when they already know the concept by a different name.
+
+Use Problem domain names
+- use the name from the problem domain. At least the programmer who maintains your code can ask a domain expert what it means.
+- Separting solution and problem domain concepts is part of the job of a good programmer and designer. The code that has moreto do with problem domain concepts should have names drawn from the problem domain.
