@@ -7,3 +7,40 @@ Use solution domain names
 Use Problem domain names
 - use the name from the problem domain. At least the programmer who maintains your code can ask a domain expert what it means.
 - Separting solution and problem domain concepts is part of the job of a good programmer and designer. The code that has moreto do with problem domain concepts should have names drawn from the problem domain.
+
+
+*************** Data Structure ****************
+Array:
+/* Average Case */
+- Access: O(1)
+- Search: O(n)
+- Insertion: O(n)
+- Deletion: O(n)
+
+/* Worst Case */
+- Access: O(1)
+- Search: O(n)
+- Insertion: O(n)
+- Deletion: O(n)
+
+Space Complexity:
+/* Worst */
+O(n)
+
+Stack:
+/* Average Case */
+- Access: O(n)
+- Search: O(n)
+- Insertion: O(1)
+- Deletion: O(1)
+
+/* Worst Case */
+- Access: O(n)
+- Search: O(n)
+- Insertion: O(n)
+- Deletion: O(n)
+
+Space Complexity:
+/* Worst */
+O(n)
+
